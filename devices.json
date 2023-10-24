@@ -1,5 +1,20 @@
 [
    {
+      "brand": "Xiaomi",
+      "codename": "santoni",
+      "name": "Redmi 4X",
+      "supported_versions": [
+         {
+            "device_group": "r4xdownloads",
+            "maintainer_name": "Omansh Krishn",
+            "maintainer_url": "https://t.me/omansh_krishn",
+            "version_code": "thirteen",
+            "version_name": "Thirteen",
+            "xda_thread": "https://forum.xda-developers.com"
+         }
+      ]
+   },
+   {
       "brand": "Asus",
       "codename": "X01BD",
       "name": "Zenfone Max Pro M2",
